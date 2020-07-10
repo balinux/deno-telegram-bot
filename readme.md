@@ -12,4 +12,5 @@
     import "https://deno.land/x/dotenv/load.ts";
 
   ```
-  
+- url random image cat: http://placekitten.com/200/200
+- url random image : https://picsum.photos/200/300/?random
